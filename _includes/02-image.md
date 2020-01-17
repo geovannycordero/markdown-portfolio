@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Black mirror, glass broken](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/05/13/black-mirror-logo.jpg)
